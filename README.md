@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Arsalan
+- 👀 I’m interested in Java Full Stack Developement (Angular & Spring Boot)
+- 🌱 I’m currently learning Advanced Angular concepts and Java 8 new features
+- 📫 I can be reached via email mdarsalan95@gmail.com
